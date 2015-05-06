@@ -1,0 +1,6 @@
+[submodule "udm-datamodel"]
+	path = udm-datamodel
+	url = https://github.com/gmulinti/udm-datamodel
+[submodule "sample-for-codeship"]
+	path = sample-for-codeship
+	url = https://github.com/gmulinti/sample-for-codeship
